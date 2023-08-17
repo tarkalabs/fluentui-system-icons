@@ -1,0 +1,10 @@
+framework module FluentIcons {
+  umbrella header "FluentIcons.h"
+
+  export *
+  module * { export * }
+}
+
+module FluentIcons.__Swift {
+  exclude header "FluentIcons-Swift.h"
+}

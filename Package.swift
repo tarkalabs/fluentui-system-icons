@@ -10,6 +10,9 @@ let package = Package(
         .library(
             name: "FluentIcons",
             targets: ["FluentIcons"]),
+        .library(
+            name: "FluentIconsBinary",
+            targets: ["FluentIconsBinary"]),
     ],
     dependencies: [
         // Dependencies declare other packages that this package depends on.
@@ -22,6 +25,7 @@ let package = Package(
             name: "FluentIcons",
             dependencies: [],
             path: "ios/FluentIcons"
-        )
+        ),
+        .binaryTarget(name: "FluentIconsBinary", path: "archives/FluentIcons.xcframework")
     ]
 )

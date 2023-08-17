@@ -1,0 +1,23 @@
+--- !tapi-tbd
+tbd-version:     4
+targets:         [ arm64-ios ]
+flags:           [ not_app_extension_safe ]
+install-name:    '@rpath/FluentIcons.framework/FluentIcons'
+swift-abi-version: 7
+exports:
+  - targets:         [ arm64-ios ]
+    symbols:         [ '_$s11FluentIcons0A4IconO11codeSnippetSSvg', '_$s11FluentIcons0A4IconO11codeSnippetSSvpMV', 
+                       '_$s11FluentIcons0A4IconO14resourceStringSSvg', '_$s11FluentIcons0A4IconO14resourceStringSSvpMV', 
+                       '_$s11FluentIcons0A4IconO8allCasesSayACGvgZ', '_$s11FluentIcons0A4IconO8rawValueACSgSi_tcfC', 
+                       '_$s11FluentIcons0A4IconO8rawValueSivg', '_$s11FluentIcons0A4IconO8rawValueSivpMV', 
+                       '_$s11FluentIcons0A4IconOMa', '_$s11FluentIcons0A4IconOMn', 
+                       '_$s11FluentIcons0A4IconON', '_$s11FluentIcons0A4IconOSHAAMc', 
+                       '_$s11FluentIcons0A4IconOSQAAMc', '_$s11FluentIcons0A4IconOSYAAMc', 
+                       '_$s11FluentIcons0A4IconOs12CaseIterableAAMc', '_$sSo11UIImageViewC11FluentIconsE6fluent011highlightedC09tintColorAbC0C4IconO_AHSo7UIColorCtcfC', 
+                       '_$sSo11UIImageViewC11FluentIconsE6fluent011highlightedC09tintColorAbC0C4IconO_AHSo7UIColorCtcfc', 
+                       '_$sSo11UIImageViewC11FluentIconsE6fluent9tintColorAbC0C4IconO_So7UIColorCtcfC', 
+                       '_$sSo11UIImageViewC11FluentIconsE6fluent9tintColorAbC0C4IconO_So7UIColorCtcfc', 
+                       '_$sSo7UIImageC11FluentIconsE16fluentIconBundleSo8NSBundleCvgZ', 
+                       '_$sSo7UIImageC11FluentIconsE6fluentAbC0B4IconO_tcfC', '_$sSo7UIImageC11FluentIconsE6fluentAbC0B4IconO_tcfc', 
+                       _FluentIconsVersionNumber, _FluentIconsVersionString ]
+...

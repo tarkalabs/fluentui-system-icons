@@ -1,10 +1,10 @@
 use_frameworks!
+platform :ios, '16.0'
 
 target 'FluentIcons_Example' do
   pod 'FluentIcons', :path => '../'
 
 end
-
 
 target 'FluentIcons_ExampleMacOS' do
   pod 'FluentIcons', :path => '../'

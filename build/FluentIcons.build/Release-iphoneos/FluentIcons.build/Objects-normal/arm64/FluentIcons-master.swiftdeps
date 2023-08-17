@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "ca5a207cdbf85987cba99597b8de8a65983f71d995fb37c079e3cca161b7db62"
+build_start_time: [1686740295, 826768000]
+build_end_time: [1686740371, 72423000]
+inputs:
+  "/Users/arvindhsukumar/Xcode/fluentui-system-icons/ios/FluentIcons/Classes/FluentIcon.swift": [1686729602, 300216569]
+  "/Users/arvindhsukumar/Xcode/fluentui-system-icons/ios/FluentIcons/Classes/Image+FluentIcon.swift": [1686729597, 949603107]

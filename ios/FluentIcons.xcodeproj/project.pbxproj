@@ -291,7 +291,7 @@
 			);
 			inputPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-FluentIcons_ExampleMacOS/Pods-FluentIcons_ExampleMacOS-frameworks.sh",
-				"${BUILT_PRODUCTS_DIR}/FluentIcons-macOS/FluentIcons.framework",
+				"${BUILT_PRODUCTS_DIR}/FluentIcons/FluentIcons.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
@@ -331,7 +331,7 @@
 			);
 			inputPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-FluentIcons_Example/Pods-FluentIcons_Example-frameworks.sh",
-				"${BUILT_PRODUCTS_DIR}/FluentIcons-iOS/FluentIcons.framework",
+				"${BUILT_PRODUCTS_DIR}/FluentIcons/FluentIcons.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (

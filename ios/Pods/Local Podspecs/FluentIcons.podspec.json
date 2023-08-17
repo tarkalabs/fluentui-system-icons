@@ -1,6 +1,6 @@
 {
   "name": "FluentIcons",
-  "version": "1.1.60",
+  "version": "1.1.203",
   "summary": "FluentIcons",
   "description": "FluentIcons",
   "homepage": "https://github.com/microsoft/fluentui-system-icons",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/microsoft/fluentui-system-icons.git",
-    "tag": "1.1.60"
+    "tag": "1.1.203"
   },
   "platforms": {
     "ios": "8.0",
@@ -29,10 +29,10 @@
       "name": "Code",
       "source_files": "ios/FluentIcons/Classes/*.swift",
       "ios": {
-        "source_files": "ios/FluentIcons/Classes/ios/*.swift"
+        "source_files": "ios/FluentIcons/Classes/*.swift"
       },
       "osx": {
-        "source_files": "ios/FluentIcons/Classes/mac/*.swift"
+        "source_files": "ios/FluentIcons/Classes/*.swift"
       }
     },
     {
