@@ -5,7 +5,6 @@ xcodebuild archive \
     -archivePath "archives/FluentIcons-iOS" 
 
 xcodebuild archive \
-    ARCHS= \
     -project FluentIcons.xcodeproj \
     -scheme FluentIcons \
     -destination "generic/platform=iOS Simulator" \
