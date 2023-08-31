@@ -6,11 +6,11 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		+79ugg5A4ieHVomNYY9j3B0TiJE=
+		1wCcunV0IVhLHwNiKsScZjM93OY=
 		</data>
 		<key>Headers/FluentIcons-Swift.h</key>
 		<data>
-		XX2k6Aome2YyeySur7rmWTdBmCk=
+		hHl8M6uQE8rlBk4HKO2HZqIOsuE=
 		</data>
 		<key>Headers/FluentIcons.h</key>
 		<data>
@@ -22,11 +22,11 @@
 		</data>
 		<key>Modules/FluentIcons.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		LqZ4E/Y7xH9AeHN7S7OG4zGNpzU=
+		tXeWlZXiL6ovpvh8MwbznMmrwI4=
 		</data>
 		<key>Modules/FluentIcons.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		+0LsRA9UpW3+FyPNT0w/QcX/daI=
+		o3qkC6LKkWHrhVr6vTWe/KRxm5o=
 		</data>
 		<key>Modules/FluentIcons.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -34,19 +34,19 @@
 		</data>
 		<key>Modules/FluentIcons.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		+0LsRA9UpW3+FyPNT0w/QcX/daI=
+		o3qkC6LKkWHrhVr6vTWe/KRxm5o=
 		</data>
 		<key>Modules/FluentIcons.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		TwJODI90hguuEDd84aNn8c81OIg=
+		6t5pe580BC5wn7iXNZxl0Rs096w=
 		</data>
 		<key>Modules/FluentIcons.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		LqZ4E/Y7xH9AeHN7S7OG4zGNpzU=
+		tXeWlZXiL6ovpvh8MwbznMmrwI4=
 		</data>
 		<key>Modules/FluentIcons.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		G1c1tgeatU0Tr178E6i+FPsZYyM=
+		vZcB8sxoVg20//Kp2xdlOlcJjug=
 		</data>
 		<key>Modules/FluentIcons.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -54,11 +54,11 @@
 		</data>
 		<key>Modules/FluentIcons.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		G1c1tgeatU0Tr178E6i+FPsZYyM=
+		vZcB8sxoVg20//Kp2xdlOlcJjug=
 		</data>
 		<key>Modules/FluentIcons.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		5joMdgPPLxEv2emTFFQj6+MyfIE=
+		mwomSdcRrmQiDru5KsgrXQtoqwo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -71,14 +71,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/yg7rKMmSVZuEgjnDtTB4KnKcLbtEJP1FnNL9Pu088s=
+			11Xtr84YHa+JSzTQBDddc8UoIL7vJ2IhUHpkdhhjdSg=
 			</data>
 		</dict>
 		<key>Headers/FluentIcons-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			04qIAPbUFXa5RtsQJQ1bzDaDgLA/KTWc1lv+Fkgry8I=
+			RtnlcKFAmQCch27prdpswAAt11aOC8pvFFm0J0Dkh9o=
 			</data>
 		</dict>
 		<key>Headers/FluentIcons.h</key>
@@ -92,14 +92,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			U778wXk4Xj4ohSNPtCxPtfRyWj6pPHlnVf6XFeQLOaw=
+			4XRbZhzyuqoG4vLscWYto8lLb/WfuXuZ0BG802Kb0LE=
 			</data>
 		</dict>
 		<key>Modules/FluentIcons.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WNkeBt4gNmwiF/GjQkTkaly1sPhl3M37ef7KIzy5UaI=
+			UthFAKK9JkVbCaY9dxPmaQytz0v8AQeStucjAnOyClM=
 			</data>
 		</dict>
 		<key>Modules/FluentIcons.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -113,28 +113,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WNkeBt4gNmwiF/GjQkTkaly1sPhl3M37ef7KIzy5UaI=
+			UthFAKK9JkVbCaY9dxPmaQytz0v8AQeStucjAnOyClM=
 			</data>
 		</dict>
 		<key>Modules/FluentIcons.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Rwf2pcg2KSTgoxeUZsp0WAfn5ZjJEY22PNhJoiuJzak=
+			EtcU0WuVxv5Eg4ZR/hjw97TDlB6Er7/VKmP18amD0Lw=
 			</data>
 		</dict>
 		<key>Modules/FluentIcons.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			U778wXk4Xj4ohSNPtCxPtfRyWj6pPHlnVf6XFeQLOaw=
+			4XRbZhzyuqoG4vLscWYto8lLb/WfuXuZ0BG802Kb0LE=
 			</data>
 		</dict>
 		<key>Modules/FluentIcons.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5Fh4trD/7wsJSnZ9/jAg5SAWDTkMeEMAS03jbZN96GE=
+			qh5rTML0NqRvNTcTfQLaGfQf8S1b0xpwtxKS6QPKMao=
 			</data>
 		</dict>
 		<key>Modules/FluentIcons.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -148,14 +148,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5Fh4trD/7wsJSnZ9/jAg5SAWDTkMeEMAS03jbZN96GE=
+			qh5rTML0NqRvNTcTfQLaGfQf8S1b0xpwtxKS6QPKMao=
 			</data>
 		</dict>
 		<key>Modules/FluentIcons.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			92/IHxpXnIk3mvS7A6Z6lwTSX/wPuH/YYDJyGBGb9Rc=
+			38yj2kUe+i3Uw8sLJod3w34HnGrvYjJBLeYv+yAoeJY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
